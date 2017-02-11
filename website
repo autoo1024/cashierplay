@@ -1,0 +1,45 @@
+<!--一个非常简陋的html官网(待更新)-->
+<!DOCTYPE html>
+<html lang="ch">
+<head>
+    <meta charset="UTF-8">
+    <title>cashierplay</title>
+    <base target="_blank">
+</head>
+<body>
+    <h1>CashierPlay</h1>
+    <hr/>
+    <h2>目录</h2>
+    <a href="#1" target="_self">简介</a><br>
+    <a href="#2" target="_self">进度</a><br>
+    <a href="#3" target="_self">源代码及下载地址</a>
+
+    <h3><span id="1">简介</span></h3>
+    <p>这里是这个一个集餐厅点菜，收银等功能于一身的软件</p>
+    <p>当然，这是一个<b>开源</b>的项目</p>
+    <span id="2"><h3>进度条</h3></span>
+    <p>
+        开发语言:<a href="https://developer.android.com/">Android</a><a href="http://java.oracle.com">(Java)</a><br>
+        开发进度:0%<br>
+        目前进度:设计UI<br>
+        <s>完工时间:随缘</s>
+    </p>
+    <span id="3"><h3>源代码及软件下载</h3></span>
+        <table border="1px">
+        <thead>
+            <th align="center"colspan="3">Source core and Download</th>
+        </thead>
+        <tbody>
+            <tr>
+                <th>Not China</th>
+                <td><a href="https://github.com/autoo1024/cashierplay">Github</a></td>
+                <td><a href="https://autoo1024@bitbucket.org/autoo1024/cashierplay.git">Bitbucket</a></td>
+            </tr>
+            <tr>
+                <th>In China</th>
+                <td align="center"colspan="2"><a href="https://coding.net/u/autoo1024/p/cashierplay/git">Coding</a></td>
+            </tr>
+        </tbody>
+        </table>
+</body>
+</html>
